@@ -1,4 +1,6 @@
-> # **OneBitFood - MVP baseado no IFood.**
+ ![OneBitFood](https://github.com/nemuba/onebitfood-client/blob/master/src/assets/images/logo-v1-horizontal.png)
+ 
+ # **MVP baseado no IFood.** 
 
 ### Esse Projeto foi desenvolvido no curso da 5ª Semana FullStack do onebitcode [onebitcode.com](https://www.onebitcode.com).
 
