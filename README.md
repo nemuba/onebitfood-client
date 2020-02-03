@@ -8,7 +8,7 @@
 
 > ### **1. Back-End:**
 
-- [Ruby on Rails API](https://guides.rubyonrails.org/index.html).
+- [Ruby on Rails API](https://github.com/nemuba/onebitfood-api).
 
 > ### **2. Front-End:**
 
